@@ -12,7 +12,7 @@ sections:
         filename: hero-academic.png
       cta:
         label: '**Get Started**'
-        url: https://wowchemy.com/templates/
+        url: https://xiyuanchang.com/
       cta_alt:
         label: Ask a question
         url: https://discord.gg/z8wNYzb
@@ -70,7 +70,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
+        - title: intern
           company: GenCoin
           company_url: ''
           company_logo: org-gc
